@@ -3,27 +3,27 @@
 ---
 
 # Site
-# Cause
+# Stat
 # Effect
 
 ---
 
 # Amazon
-# 100ms load time increase
+# 0.1s slower load time
 # 1% decrease in revenue
 
 ---
 
 # Bing
 
-# One second delay
+# 1s delay
 # 2.8% drop in revenue
 
 ---
 
 # Bing
 
-# Two second delay
+# 2s delay
 # 4.3% drop in revenue
 
 ---
@@ -37,49 +37,51 @@
 
 # Mozilla
 
-# 2.2s load time decrease
-# download conversions increase by 15.4%
+# 2.2s faster load time
+# 15.4% increase in download conversions
 
 ---
 
 # Google
 
-# 500ms increase in<br>load time
+# 0.5s slower load time
 # 25% less searches
 
 ---
 
 # Yahoo
 
-# 400ms faster load time
-# 9% traffic increase (multplied!)
+# 0.5s faster load time
+# 9% traffic increase (multiplied!)
 
 ---
 
 # Netflix
 
-# turned in GZip
+# Turned on gzip
 # 43% decrease in bandwidth bill
 
 ---
 
 # Walmart
 
-# 1 second faster load time
+# 1s faster load time
 # 2% increase in conversions (multiplied!)
+
+^ Every s faster
 
 ---
 
 # Walmart
 
-# 100ms faster load time
+# 0.1s faster load time
 # 1% increase in revenue (multiplied!)
 
 ---
 
 # YouTube
 
-# 90% lighter page
+# 90% smaller page size
 # large increase in traffic in areas with poor connectivity
 
 ^ Southeast Asia, South America, Africa, and Siberia.
@@ -88,14 +90,14 @@
 
 # GQ
 
-# cut load time by 80%
+# 80% faster load time
 # 80% increase in traffic
 
 ---
 
 # Instagram
 
-# decreased response size by more than 30%
+# 30% smaller page size
 # increased impressions and interactions
 
 ^ by 33% for the median and 50% for the 95th percentile for the main endpoint).
@@ -104,35 +106,35 @@
 
 # Financial Times
 
-# one second delay to<br>page view
-# 4.9% drop in articles users read
+# 1s slower load time
+# 4.9% drop in<br>articles read
 
 ^ over a 7 day window
-two second delay to page view: 4.4% drop
+twos delay to page view: 4.4% drop
 
 ---
 
 # Financial Times
 
-# three second delay to page view
-# 7.2% drop
+# 3s slower load time
+# 7.2% drop in<br>articles read
 
 ^ further drops in engagement after a few weeks
 
 ---
 
-# Publishers<br>(Google DoubleClick)
+# Google DoubleClick stats
 
-# load in 5 seconds
+# Faster sites<br>(5s load time vs 19s)
 # 2 x more<br>mobile ad revenue
 
-^ than sites loading in 19 seconds
+^ than sites loading in 19ss
 
 ---
 
-# Publishers<br>(Google DoubleClick)
+# Google DoubleClick stats
 
-# Faster sites (5s vs 19s)
+# Faster sites<br>(5s load time vs 19s)
 # 70% longer<br>average session lengths
 
 ^ 35% lower bounce rates

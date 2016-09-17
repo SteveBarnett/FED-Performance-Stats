@@ -8,6 +8,11 @@
 
 ---
 
+# Yikes!
+# :scream:
+
+---
+
 # Amazon
 # 0.1s slower load time
 # 1% decrease in revenue
@@ -35,10 +40,10 @@
 
 ---
 
-# Mozilla
+# Google
 
-# 2.2s faster load time
-# 15.4% increase in download conversions
+# 0.5s slower load time
+# 25% less searches
 
 ---
 
@@ -49,10 +54,27 @@
 
 ---
 
-# Yahoo
+# Financial Times
 
-# 0.5s faster load time
-# 9% traffic increase (multiplied!)
+# 1s slower load time
+# 4.9% drop in<br>articles read
+
+^ over a 7 day window
+twos delay to page view: 4.4% drop
+
+---
+
+# Financial Times
+
+# 3s slower load time
+# 7.2% drop in<br>articles read
+
+^ further drops in engagement after a few weeks
+
+---
+
+# Yay!
+# :smile:
 
 ---
 
@@ -60,6 +82,20 @@
 
 # Turned on gzip
 # 43% decrease in bandwidth bill
+
+---
+
+# Mozilla
+
+# 2.2s faster load time
+# 15.4% increase in download conversions
+
+---
+
+# Yahoo
+
+# 0.5s faster load time
+# 9% traffic increase (multiplied!)
 
 ---
 
@@ -101,25 +137,6 @@
 # increased impressions and interactions
 
 ^ by 33% for the median and 50% for the 95th percentile for the main endpoint).
-
----
-
-# Financial Times
-
-# 1s slower load time
-# 4.9% drop in<br>articles read
-
-^ over a 7 day window
-twos delay to page view: 4.4% drop
-
----
-
-# Financial Times
-
-# 3s slower load time
-# 7.2% drop in<br>articles read
-
-^ further drops in engagement after a few weeks
 
 ---
 

@@ -118,3 +118,21 @@ two second delay to page view: 4.4% drop
 # 7.2% drop
 
 ^ further drops in engagement after a few weeks
+
+---
+
+# Publishers<br>(Google DoubleClick)
+
+# load in 5 seconds
+# 2 x more<br>mobile ad revenue
+
+^ than sites loading in 19 seconds
+
+---
+
+# Publishers<br>(Google DoubleClick)
+
+# Faster sites (5s vs 19s)
+# 70% longer<br>average session lengths
+
+^ 35% lower bounce rates

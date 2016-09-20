@@ -1,5 +1,7 @@
 # wpostats.com
 
+# (mostly)
+
 ---
 
 # Site
@@ -11,9 +13,21 @@
 # Yikes!
 # :scream:
 
+^ start with general, then get specific
+
+---
+
+# Google DoubleClick stats
+
+# more than 3s to load
+# 53% of visits abandoned
+
+^ "The need for mobile speed"
+
 ---
 
 # Amazon
+
 # 0.1s slower load time
 # 1% decrease in revenue
 
@@ -78,6 +92,15 @@ twos delay to page view: 4.4% drop
 
 ---
 
+# Google DoubleClick stats
+
+# Faster sites<br>(5s load time vs 19s)
+# 70% longer<br>average session lengths
+
+^ 35% lower bounce rates
+
+---
+
 # Netflix
 
 # Turned on gzip
@@ -137,21 +160,3 @@ twos delay to page view: 4.4% drop
 # increased impressions and interactions
 
 ^ by 33% for the median and 50% for the 95th percentile for the main endpoint).
-
----
-
-# Google DoubleClick stats
-
-# Faster sites<br>(5s load time vs 19s)
-# 2 x more<br>mobile ad revenue
-
-^ than sites loading in 19ss
-
----
-
-# Google DoubleClick stats
-
-# Faster sites<br>(5s load time vs 19s)
-# 70% longer<br>average session lengths
-
-^ 35% lower bounce rates

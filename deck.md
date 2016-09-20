@@ -1,3 +1,71 @@
+# Front-end
+# performance
+
+---
+
+# **Why**
+
+---
+
+# **A big, wide, stat**
+
+---
+
+# UN Broadband Commission
+# 500MB of data
+# < 5% of monthly income
+
+^ affordability target
+
+---
+
+# South Africa
+# 500MB of data
+# 1.5% of monthly income
+
+^ **average** income
+based on GNI per capita
+**More than half** pop earn **less than half** of that
+
+---
+
+# South Africa (actually)
+# 500MB of data
+# between 6% and 19%<br>of monthly income
+
+---
+
+# **A little, narrow, stat**
+
+^ 500MB seems like a lot
+what about more realistic?
+
+---
+
+# Vodacom pre-paid
+# R9 for 15MB
+# R0.60 per MB
+
+---
+
+# httparchive.org
+# Average page size: 2.5MB
+# R1.5 per page
+
+---
+
+# Cashier R5,000 / month
+# 10 pages a day
+# 9% of daily income
+
+^ which is between 6 and 19
+
+---
+
+# **What**
+
+---
+
 # wpostats.com
 
 # (mostly)
@@ -10,7 +78,7 @@
 
 ---
 
-# Yikes!
+# **Yikes!**
 # :scream:
 
 ^ start with general, then get specific
@@ -87,7 +155,7 @@ twos delay to page view: 4.4% drop
 
 ---
 
-# Yay!
+# **Yay!**
 # :smile:
 
 ---

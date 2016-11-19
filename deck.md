@@ -7,7 +7,7 @@
 
 ---
 
-# **A big, wide, stat**
+# **Big, wide, stats**
 
 ---
 
@@ -35,10 +35,20 @@ based on GNI per capita
 
 ---
 
-# **A little, narrow, stat**
+# South Africans
+# 70% are on<br>less than R6,000 / month
 
-^ 500MB seems like a lot
-what about more realistic?
+^ mantaray.co.za, 2016
+
+---
+
+# People limit usage by buying small amounts
+# Convert airtime to data
+# That means<br>out of bundle rates
+
+---
+
+# **Little, narrow, stats**
 
 ---
 

@@ -5,7 +5,7 @@ theme: Zurich, 4
 
 ---
 
-# **Why**
+# **WHY**
 
 ---
 
@@ -74,7 +74,7 @@ based on GNI per capita
 
 ---
 
-# **What**
+# **WHAT**
 
 ---
 

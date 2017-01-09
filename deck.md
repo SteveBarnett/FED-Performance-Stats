@@ -1,3 +1,5 @@
+theme: Zurich, 4
+
 # Front-end
 # performance
 

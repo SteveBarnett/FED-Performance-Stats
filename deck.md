@@ -240,3 +240,10 @@ twos delay to page view: 4.4% drop
 # increased impressions and interactions
 
 ^ by 33% for the median and 50% for the 95th percentile for the main endpoint).
+
+---
+
+# AliExpress
+
+# 36% faster load time
+# 10.5% increase in orders
